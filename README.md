@@ -7,6 +7,7 @@
 ``` bundle ```  
 
 ``` ruby jianshu-spider.rb "用户名" "文章参数" ```  
+
 比如``` ruby jianshu-spider.rb "吴立宁" "*" ```  
 
 ![示例图片](./示例图片.png)

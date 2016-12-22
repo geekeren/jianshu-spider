@@ -2,7 +2,7 @@
 
 下载zip或者clone此项目  
 
-``` cd spider ```  
+``` cd jianshu-spider ```  
 
 ``` bundle ```  
 
